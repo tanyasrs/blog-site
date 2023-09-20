@@ -1,0 +1,15 @@
+
+#header{
+    background: #1e90ff;
+    text-align: center;
+    padding: 15px;
+}
+
+#logo{
+    display: inline-block;
+    width: 65%;
+}
+
+#logo img{
+    width: 100%;
+}
